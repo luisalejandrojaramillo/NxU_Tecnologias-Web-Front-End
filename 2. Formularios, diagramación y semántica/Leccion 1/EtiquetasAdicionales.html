@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Atrubutos Input</title>
+</head>
+<body>
+<from>
+    <fieldset>
+
+        <p>Contraseña<br/>
+            <label for="nombre">Contraseña</label>
+            <input type="password" name="nombre" />
+        </p>
+
+
+        <p>Checkbox<br/>
+            <input type="checkbox" id="terminos" value="yes">
+            <label for="terminos">Acepto los términos y condiciones</label>
+        </p>
+
+
+        <p>Radio<br/>
+            <input type="radio" id="manana" value="M" name="horario">
+            <label for="manana">Mañana</label>
+            <input type="radio" id="tarde" value="T" name="horario">
+            <label for="tarde">Tarde</label>
+        </p>
+
+        <p>Lista con grupos<br/>
+            <label for="ciudades">Cuidad</label>
+            <select name="ciudades">
+                <optgroup label="Latinoamerica">
+                    <option value="caracas">Caracas</option>
+                    <option value="bogota">Bogotá</option>
+                </optgroup><optgroup label="Europa">
+                <option value="madrid">Madrid</option>
+                <option value="londres">Londres</option>
+            </optgroup>
+            </select>
+        </p>
+
+        <p>Lista de Seleccion Multiple<br/>
+            <label for="tipo">Tipo</label><br>
+            <select name="tipo" multiple="true">
+                <option value="musico">Músico</option>
+                <option value="pintor">Pintor</option>
+                <option value="actor">Actor</option>
+                <option value="escultor">Escultor</option>
+            </select>
+        </p>
+
+
+
+
+
+
+
+    </fieldset>
+</from>
+
+</body>
+</html>
