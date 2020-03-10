@@ -1,0 +1,6 @@
+a {
+    font-family: 'Arial';
+}
+a:hover{
+    font-weight: bold;
+}
