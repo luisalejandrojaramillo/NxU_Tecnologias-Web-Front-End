@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/1. Introduccion a CSS/Leccion 4 Pseudo-clases y pseudo-elementos/Ejercicio 1/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/1. Introduccion a CSS/Leccion 4 Pseudo-clases y pseudo-elementos/Ejercicio 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/1. Introduccion a CSS/Leccion 4 Pseudo-clases y pseudo-elementos/Taller 1/Taller1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/1. Introduccion a CSS/Leccion 4 Pseudo-clases y pseudo-elementos/Taller 1/css/estilos.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +65,7 @@
       <workItem from="1583034811722" duration="2334000" />
       <workItem from="1583722723499" duration="2633000" />
       <workItem from="1583806063320" duration="554000" />
+      <workItem from="1585522401576" duration="927000" />
     </task>
     <servers />
   </component>
