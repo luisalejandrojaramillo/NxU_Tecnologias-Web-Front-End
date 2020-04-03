@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 1 Modelo de cajas y propiedades de cuadro/2.4 Taller/css/estiloCaja.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 1 Modelo de cajas y propiedades de cuadro/2.4 Taller/indexCajas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 1 Modelo de cajas y propiedades de cuadro/2.2 Video Modelo de cajas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 1 Modelo de cajas y propiedades de cuadro/2.2 Video Modelo de cajas/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
       <workItem from="1583722723499" duration="2633000" />
       <workItem from="1583806063320" duration="554000" />
       <workItem from="1585522401576" duration="927000" />
+      <workItem from="1585936516055" duration="257000" />
     </task>
     <servers />
   </component>
