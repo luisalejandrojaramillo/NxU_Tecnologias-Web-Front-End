@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.8 Diseño Fluido/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.8 Diseño Fluido/indefDiFluido.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Hairline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-HairlineItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/fuentes/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.10 Ejercicio 2 Mi Tienda/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +82,7 @@
       <workItem from="1586213603766" duration="1657000" />
       <workItem from="1586276721401" duration="1378000" />
       <workItem from="1586536720390" duration="1833000" />
-      <workItem from="1586884266750" duration="2223000" />
+      <workItem from="1586884266750" duration="2560000" />
     </task>
     <servers />
   </component>
