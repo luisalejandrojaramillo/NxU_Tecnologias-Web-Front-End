@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.7 Video Flex/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.7 Video Flex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.8 Diseño Fluido/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.8 Diseño Fluido/indefDiFluido.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
       <workItem from="1586213603766" duration="1657000" />
       <workItem from="1586276721401" duration="1378000" />
       <workItem from="1586536720390" duration="1833000" />
-      <workItem from="1586884266750" duration="1433000" />
+      <workItem from="1586884266750" duration="2223000" />
     </task>
     <servers />
   </component>
