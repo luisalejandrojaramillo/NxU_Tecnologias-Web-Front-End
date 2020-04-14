@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Hairline.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-HairlineItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/fuentes/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (2).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (3).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (4).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (5).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (6).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (7).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016 (8).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/calculator_report_12082016.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/imagen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/imagen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/imagenes/recetas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.3 Ejercicio 1 Parque Ecologico/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.7 Video Flex/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 2 Flujo y posicionamiento de cajas/3.7 Video Flex/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +70,10 @@
       <workItem from="1585522401576" duration="927000" />
       <workItem from="1585936516055" duration="3674000" />
       <workItem from="1586213053779" duration="119000" />
-      <workItem from="1586213603766" duration="935000" />
+      <workItem from="1586213603766" duration="1657000" />
+      <workItem from="1586276721401" duration="1378000" />
+      <workItem from="1586536720390" duration="1833000" />
+      <workItem from="1586884266750" duration="1433000" />
     </task>
     <servers />
   </component>
@@ -107,10 +88,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1586213145116" />
-    <state x="413" y="126" key="FileChooserDialogImpl" timestamp="1583805887273">
+    <state x="413" y="126" key="FileChooserDialogImpl" timestamp="1586618080825">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="413" y="126" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583805887273" />
+    <state x="413" y="126" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586618080825" />
     <state x="0" y="0" width="1272" height="810" key="dock-window-1" timestamp="1585939526141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
