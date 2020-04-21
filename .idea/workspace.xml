@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/PropiedadesFont.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/css/FreeSans.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/css/FreeSansBold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/css/FreeSansBoldOblique.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/css/FreeSansOblique.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 3 Propiedades de texto y de fuente/4.1 Video Tipografias Web/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <workItem from="1586276721401" duration="1378000" />
       <workItem from="1586536720390" duration="1833000" />
       <workItem from="1586884266750" duration="2560000" />
-      <workItem from="1587487330522" duration="620000" />
+      <workItem from="1587487330522" duration="2051000" />
     </task>
     <servers />
   </component>
