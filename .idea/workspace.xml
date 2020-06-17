@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/css3_html5_badges.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/delicious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/digg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/lastfm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/imagen_borde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/magazine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/papel_doblado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +40,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -74,11 +88,14 @@
       <workItem from="1586884266750" duration="2560000" />
       <workItem from="1587487330522" duration="5395000" />
       <workItem from="1587663951484" duration="205000" />
+      <workItem from="1590985301253" duration="980000" />
+      <workItem from="1592356083870" duration="1269000" />
+      <workItem from="1592366837732" duration="266000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
