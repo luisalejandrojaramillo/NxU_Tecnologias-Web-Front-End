@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4721e7f-496d-4a94-987e-28b985c37dce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/css3_html5_badges.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/delicious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/digg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/lastfm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/iconos/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/imagen_borde.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/magazine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/img/papel_doblado.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.3 Video Efectos de caja, degradado y sombras/EfectosCajaDegradadosYSombras/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/css/estilos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/3. CSS/2. Propiedades CSS/Leccion 4 Propiedades de visualizacion y organizacion/5.5 Propiedades para tablas/ManejoTablasCSS/css/estilos.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +77,7 @@
       <workItem from="1587663951484" duration="205000" />
       <workItem from="1590985301253" duration="980000" />
       <workItem from="1592356083870" duration="1269000" />
-      <workItem from="1592366837732" duration="266000" />
+      <workItem from="1592366837732" duration="952000" />
     </task>
     <servers />
   </component>
